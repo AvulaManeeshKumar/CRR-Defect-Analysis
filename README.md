@@ -1,2 +1,7 @@
-# CRR-Defect-Analysis
-SQL + Power BI project analyzing CRR defect trends and operational insights
+CRR-Defect-Analysis/
+│
+├── Dataset/
+├── SQL Queries/
+├── Power BI Dashboard/
+├── Screenshots/
+└── README.md
